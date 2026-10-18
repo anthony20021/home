@@ -1,0 +1,13 @@
+[
+  {
+    "category": "Jeux",
+    "items": [
+      {
+        "name": "Exemple jeu",
+        "url": "https://example.com",
+        "icon": "🎮",
+        "desc": "Mon petit jeu web"
+      }
+    ]
+  }
+]
